@@ -28,3 +28,15 @@ const displayPost = () => {
     allPosts.append(li)
   })
 }
+
+const fetch5 = () => {
+
+}
+
+const fetchComments = () => {
+
+}
+
+const fetchUsers = () => {
+  
+}
